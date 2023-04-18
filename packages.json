@@ -27,10 +27,10 @@
         "package": "gamezoneR",
         "url": "https://github.com/jacklich10/gamezoneR"
     },
-    {
-        "package": "toRvik",
-        "url": "https://github.com/andreweatherman/toRvik"
-    },
+    // {
+    //     "package": "toRvik",
+    //     "url": "https://github.com/andreweatherman/toRvik"
+    // },
     {
         "package": "baseballr",
         "url": "https://github.com/billpetti/baseballr"
@@ -59,10 +59,10 @@
         "package": "worldfootballR",
         "url": "https://github.com/jaseziv/worldfootballR"
     },
-    {
-        "package": "ggshakeR",
-        "url": "https://github.com/abhiamishra/ggshakeR"
-    },
+    // {
+    //     "package": "ggshakeR",
+    //     "url": "https://github.com/abhiamishra/ggshakeR"
+    // },
     {
         "package": "soccerAnimate",
         "url": "https://github.com/Dato-Futbol/soccerAnimate"
