@@ -1,5 +1,9 @@
 [
     {
+        "package": "sportsdataverse",
+        "url": "https://github.com/sportsdataverse/sportsdataverse-R"
+    },
+    {
         "package": "cfbfastR",
         "url": "https://github.com/sportsdataverse/cfbfastR"
     },
@@ -54,6 +58,10 @@
     {
         "package": "worldfootballR",
         "url": "https://github.com/jaseziv/worldfootballR"
+    },
+    {
+        "package": "ggshakeR",
+        "url": "https://github.com/abhiamishra/ggshakeR"
     },
     {
         "package": "soccerAnimate",
