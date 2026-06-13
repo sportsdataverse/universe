@@ -28,10 +28,6 @@
         "url": "https://github.com/sportsdataverse/wehoop"
     },
     {
-        "package": "gamezoneR",
-        "url": "https://github.com/JackLich10/gamezoneR"
-    },
-    {
         "package": "baseballr",
         "url": "https://github.com/BillPetti/baseballr"
     },
@@ -46,10 +42,6 @@
     {
         "package": "fastRhockey",
         "url": "https://github.com/sportsdataverse/fastRhockey"
-    },
-    {
-        "package": "hockeyR",
-        "url": "https://github.com/danmorse314/hockeyR"
     },
     {
         "package": "sportyR",
