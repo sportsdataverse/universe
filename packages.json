@@ -29,11 +29,11 @@
     },
     {
         "package": "gamezoneR",
-        "url": "https://github.com/jacklich10/gamezoneR"
+        "url": "https://github.com/JackLich10/gamezoneR"
     },
     {
         "package": "baseballr",
-        "url": "https://github.com/billpetti/baseballr"
+        "url": "https://github.com/BillPetti/baseballr"
     },
     {
         "package": "mlbplotR",
@@ -54,10 +54,6 @@
     {
         "package": "sportyR",
         "url": "https://github.com/sportsdataverse/sportyR"
-    },
-    {
-        "package": "worldfootballR",
-        "url": "https://github.com/jaseziv/worldfootballR"
     },
     {
         "package": "ggshakeR",
@@ -81,7 +77,7 @@
     },
     {
         "package": "chessR",
-        "url": "https://github.com/jaseziv/chessR"
+        "url": "https://github.com/JaseZiv/chessR"
     },
     {
         "package": "recruitR",
